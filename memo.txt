@@ -17,3 +17,14 @@ Rule-based algorithms(규칙 기반 알고리즘)은 명시적으로 정의된 �
 
 2. 작고 단순한 문제에는 머신러닝이 더 효과적
 모든 문제에 딥러닝이 필요한 것은 아닙니다. 예를 들어, 고객 이탈 예측이나 단순한 이진 분류 문제에서는 로지스틱 회귀나 결정 트리 같은 머신러닝 모델이 빠르고 정확하며, 데이터도 적게 필요합니다.
+
+분류 (Classification)
+회귀 (Regression)
+군집화 (Clustering)
+추천 시스템	- 영화, 음악, 상품 추천
+자연어 처리 (NLP)
+이미지 처리 (Computer Vision)
+이상 탐지 (Anomaly Detection)
+강화 학습 (Reinforcement Learning)
+시계열 분석
+음성 인식 및 합성
